@@ -47,5 +47,6 @@ Logic symbol & Truthtable
 ## RTL realization Output:
 RTL
 
-## Result: Thus, the truth table of logic gates in Quartus II using Verilog programming is studied and verified.
+## Result: 
+Thus, the truth table of logic gates in Quartus II using Verilog programming is studied and verified.
 
